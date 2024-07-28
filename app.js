@@ -44,4 +44,3 @@ backButton.onclick = function(){
     carousel.classList.remove('showDetail');
 }   
 
-console.log(items[0])

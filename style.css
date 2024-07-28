@@ -439,7 +439,7 @@ transition: all linear .3s;
     }
     
     .carousel .list{
-        height: 100%;
+        height: 63%;
     }
     .carousel .list .item:nth-child(2) .introduce{
         width: 50%;
